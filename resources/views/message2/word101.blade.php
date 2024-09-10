@@ -22,7 +22,7 @@ $selected_value = $aisatsu[$random_key];
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>ランダムなメッセージ</title>
 </head>
 <h1>{{ $random_key }}</h1>
 <h2>{{ $selected_value }}</h2>
